@@ -16,3 +16,24 @@ claude/.claude/sessions/
 
 # OpenCode generated/system-managed skills
 opencode/.config/opencode/skills/.system/
+
+# Codex generated state
+codex/.codex/.sandbox_migration
+codex/.codex/.tmp/
+codex/.codex/auth.json
+codex/.codex/cache/
+codex/.codex/*.sqlite
+codex/.codex/*.sqlite-shm
+codex/.codex/*.sqlite-wal
+codex/.codex/history.jsonl
+codex/.codex/installation_id
+codex/.codex/mcp-oauth-locks/
+codex/.codex/models_cache.json
+codex/.codex/plugins/cache/
+codex/.codex/session_index.jsonl
+codex/.codex/sessions/
+codex/.codex/shell_snapshots/
+codex/.codex/thread-writer-locks/
+codex/.codex/tmp/
+codex/.codex/version.json
+codex/.codex/rules/
