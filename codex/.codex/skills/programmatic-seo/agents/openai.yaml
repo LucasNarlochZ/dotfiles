@@ -1,0 +1,4 @@
+interface:
+  display_name: "Programmatic Seo"
+  short_description: "Marketing guidance for Programmatic Seo"
+  default_prompt: "Use $programmatic-seo to help with this marketing task."

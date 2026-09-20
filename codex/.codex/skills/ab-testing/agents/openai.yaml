@@ -1,0 +1,4 @@
+interface:
+  display_name: "A/B Testing"
+  short_description: "Marketing guidance for A/B Testing"
+  default_prompt: "Use $ab-testing to help with this marketing task."

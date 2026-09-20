@@ -1,0 +1,4 @@
+interface:
+  display_name: "Directory Submissions"
+  short_description: "Marketing guidance for Directory Submissions"
+  default_prompt: "Use $directory-submissions to help with this marketing task."

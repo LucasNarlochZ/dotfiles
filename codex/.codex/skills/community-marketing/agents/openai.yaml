@@ -1,0 +1,4 @@
+interface:
+  display_name: "Community Marketing"
+  short_description: "Marketing guidance for Community Marketing"
+  default_prompt: "Use $community-marketing to help with this marketing task."

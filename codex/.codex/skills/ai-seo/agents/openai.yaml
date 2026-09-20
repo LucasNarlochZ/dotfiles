@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI SEO"
+  short_description: "Marketing guidance for AI SEO"
+  default_prompt: "Use $ai-seo to help with this marketing task."

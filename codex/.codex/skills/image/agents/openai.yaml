@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image"
+  short_description: "Marketing guidance for Image"
+  default_prompt: "Use $image to help with this marketing task."

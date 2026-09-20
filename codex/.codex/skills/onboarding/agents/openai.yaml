@@ -1,0 +1,4 @@
+interface:
+  display_name: "Onboarding"
+  short_description: "Marketing guidance for Onboarding"
+  default_prompt: "Use $onboarding to help with this marketing task."

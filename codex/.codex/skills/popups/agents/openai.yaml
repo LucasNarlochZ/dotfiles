@@ -1,0 +1,4 @@
+interface:
+  display_name: "Popups"
+  short_description: "Marketing guidance for Popups"
+  default_prompt: "Use $popups to help with this marketing task."

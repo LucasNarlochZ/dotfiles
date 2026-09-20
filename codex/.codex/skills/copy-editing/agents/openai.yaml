@@ -1,0 +1,4 @@
+interface:
+  display_name: "Copy Editing"
+  short_description: "Marketing guidance for Copy Editing"
+  default_prompt: "Use $copy-editing to help with this marketing task."

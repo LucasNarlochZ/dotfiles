@@ -1,0 +1,4 @@
+interface:
+  display_name: "SMS"
+  short_description: "Marketing guidance for SMS"
+  default_prompt: "Use $sms to help with this marketing task."

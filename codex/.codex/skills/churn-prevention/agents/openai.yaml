@@ -1,0 +1,4 @@
+interface:
+  display_name: "Churn Prevention"
+  short_description: "Marketing guidance for Churn Prevention"
+  default_prompt: "Use $churn-prevention to help with this marketing task."

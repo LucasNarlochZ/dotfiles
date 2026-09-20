@@ -1,0 +1,4 @@
+interface:
+  display_name: "SEO Audit"
+  short_description: "Marketing guidance for SEO Audit"
+  default_prompt: "Use $seo-audit to help with this marketing task."

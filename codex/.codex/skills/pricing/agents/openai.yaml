@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pricing"
+  short_description: "Marketing guidance for Pricing"
+  default_prompt: "Use $pricing to help with this marketing task."

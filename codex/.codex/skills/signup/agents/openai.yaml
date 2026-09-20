@@ -1,0 +1,4 @@
+interface:
+  display_name: "Signup"
+  short_description: "Marketing guidance for Signup"
+  default_prompt: "Use $signup to help with this marketing task."

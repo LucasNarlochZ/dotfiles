@@ -1,0 +1,4 @@
+interface:
+  display_name: "Site Architecture"
+  short_description: "Marketing guidance for Site Architecture"
+  default_prompt: "Use $site-architecture to help with this marketing task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "ASO"
+  short_description: "Marketing guidance for ASO"
+  default_prompt: "Use $aso to help with this marketing task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "RevOps"
+  short_description: "Marketing guidance for RevOps"
+  default_prompt: "Use $revops to help with this marketing task."

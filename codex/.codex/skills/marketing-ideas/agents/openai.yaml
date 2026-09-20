@@ -1,0 +1,4 @@
+interface:
+  display_name: "Marketing Ideas"
+  short_description: "Marketing guidance for Marketing Ideas"
+  default_prompt: "Use $marketing-ideas to help with this marketing task."

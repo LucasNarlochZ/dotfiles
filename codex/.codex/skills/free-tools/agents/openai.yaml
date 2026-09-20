@@ -1,0 +1,4 @@
+interface:
+  display_name: "Free Tools"
+  short_description: "Marketing guidance for Free Tools"
+  default_prompt: "Use $free-tools to help with this marketing task."

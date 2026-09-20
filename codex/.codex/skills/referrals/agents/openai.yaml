@@ -1,0 +1,4 @@
+interface:
+  display_name: "Referrals"
+  short_description: "Marketing guidance for Referrals"
+  default_prompt: "Use $referrals to help with this marketing task."

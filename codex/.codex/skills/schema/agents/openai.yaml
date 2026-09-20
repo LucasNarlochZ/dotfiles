@@ -1,0 +1,4 @@
+interface:
+  display_name: "Schema"
+  short_description: "Marketing guidance for Schema"
+  default_prompt: "Use $schema to help with this marketing task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lead Magnets"
+  short_description: "Marketing guidance for Lead Magnets"
+  default_prompt: "Use $lead-magnets to help with this marketing task."
