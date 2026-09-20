@@ -74,4 +74,8 @@ Prefer read-only operations by default:
 Do not send, delete, archive, or modify email without explicit confirmation.
 The only exception is sending a email for yourself, no permission required.
 
+## Anki
+
+- Always sync de collecion after modifying/creating a deck.
+
 
