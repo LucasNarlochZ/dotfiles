@@ -33,6 +33,8 @@ codex/.codex/plugins/cache/
 codex/.codex/session_index.jsonl
 codex/.codex/sessions/
 codex/.codex/shell_snapshots/
+codex/.codex/skills/.system/
+codex/.codex/skills/**/__pycache__/
 codex/.codex/thread-writer-locks/
 codex/.codex/tmp/
 codex/.codex/version.json
