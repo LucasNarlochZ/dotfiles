@@ -44,3 +44,7 @@ alias vps-connect='ssh $VPS_USER@$VPS_IP'
 export PATH="$HOME/.local/bin:$PATH"
 # opencode
 export PATH=$HOME/.opencode/bin:$PATH
+
+# nvm
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && source "$NVM_DIR/nvm.sh"
