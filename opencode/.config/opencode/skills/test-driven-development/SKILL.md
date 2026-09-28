@@ -1,6 +1,6 @@
 ---
 name: test-driven-development
-description: Use when implementing any feature or bugfix, before writing implementation code
+description: Use ONLY when the user explicitly opts into the Superpowers workflow, for example by saying 'use your superpowers' or invoking /superpowers, when implementing a feature or bugfix.
 ---
 
 # Test-Driven Development (TDD)

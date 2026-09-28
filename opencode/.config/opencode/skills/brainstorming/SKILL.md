@@ -1,6 +1,6 @@
 ---
 name: brainstorming
-description: "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation."
+description: "Use ONLY when the user explicitly opts into the Superpowers workflow, for example by saying 'use your superpowers' or invoking /superpowers. Explores intent, requirements, and design before implementation."
 ---
 
 # Brainstorming Ideas Into Designs

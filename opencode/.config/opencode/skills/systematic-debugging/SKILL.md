@@ -1,6 +1,6 @@
 ---
 name: systematic-debugging
-description: Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
+description: Use ONLY when the user explicitly opts into the Superpowers workflow, for example by saying 'use your superpowers' or invoking /superpowers, to investigate bugs and unexpected behavior.
 ---
 
 # Systematic Debugging

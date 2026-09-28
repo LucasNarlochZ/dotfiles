@@ -1,6 +1,6 @@
 ---
 name: executing-plans
-description: Use when you have a written implementation plan to execute in a separate session with review checkpoints
+description: Use ONLY when the user explicitly opts into the Superpowers workflow, for example by saying 'use your superpowers' or invoking /superpowers, and has a written implementation plan to execute.
 ---
 
 # Executing Plans
