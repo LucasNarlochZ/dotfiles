@@ -14,6 +14,7 @@ These guidelines are general instructions on how to act. These rules take preced
 - Never modify files outside the current project scope without explicit permission.
 - By default, all docs are in english.
 - If creating a doc that is in portuguese, use accents correctly.
+- When attending a coding request, commit your changes while you work using conventional commits.
 
 ## skills
 
@@ -34,7 +35,7 @@ These guidelines are general instructions on how to act. These rules take preced
 
 ### always ask before:
 
-- Running git command (commit, push, merge, branch operations).
+- Running push git command.
 - Installing or removing packages.
 - Sending emails or creating calendar events via MCP.
 - Any destructive operation (delete, drop, truncate, overwrite).
@@ -43,7 +44,7 @@ These guidelines are general instructions on how to act. These rules take preced
 ### proceed without asking:
 
 - Reading files or listing directories.
-- Readonly git commands(git diff, git status).
+- Local-only git commands(git diff, git status, git add, git commit).
 - Running lint, typecheck, or test commands.
 - Fetching or listing data via MCP (read-only queries).
 

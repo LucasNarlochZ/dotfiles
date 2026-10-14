@@ -5,6 +5,19 @@
       "*": "allow"
     }
   },
+  "formatter": {
+    "ruff": {
+      "command": [
+        "sh",
+        "-c",
+        "uv run ruff check --fix \"$1\" && uv run ruff format \"$1\"",
+        "_",
+        "$FILE"
+      ],
+      "extensions": [".py", ".pyi"]
+    }
+  },
+  "lsp": true,
   "mcp": {
     "serper": {
       "type": "local",

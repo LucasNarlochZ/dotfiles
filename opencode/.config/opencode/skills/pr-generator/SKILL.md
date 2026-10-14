@@ -52,6 +52,8 @@ Read the complete output and reuse it across every remaining step. Do not switch
 - If the repository uses a `CHANGELOG.md` workflow, invoke `changelog-generator` with the same diff.
 - Run these preparations in this order: `update-docs`, `changelog-generator` when applicable, then PR generation.
 
+*OBS:* If the repository uses a different version system(like towncrier), search for the related docs and use the repository version system.
+
 ### 5. Draft the pull request
 
 Analyze the captured diff and prepare the final title and body before calling GitHub.
